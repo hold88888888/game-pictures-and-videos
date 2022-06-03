@@ -1,2 +1,0 @@
-xiba/ filter=lfs diff=lfs merge=lfs -text
-sec.txt filter=lfs diff=lfs merge=lfs -text
